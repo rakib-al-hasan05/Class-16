@@ -1,0 +1,126 @@
+.header{
+    background-color: #3498db;
+}
+.header-left img{
+    width:210px;
+    height:auto;
+    margin: -50px 0;
+}
+.header-right ul{
+    text-align: right;
+    margin-bottom: 0;
+}
+.header-right ul li{
+    display: inline-block;
+}
+.header-right ul li a{
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0px 15px 5px 15px;
+    line-height: 60px;
+    border-right: 1px solid #ddd;
+    font-size: 17px;
+}
+/* ..............banner-section................  */
+.banner{
+    background: url(./image-slider-with-thumbnail1.jpg) center no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+}
+.caption h2{
+    background: rgba(0, 0, 0, 0.445);
+    display: inline-block;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 35px;
+    border-radius: 5px;
+}
+.caption h1{
+    background: rgba(52, 152, 220, .6 );
+    color: #fff;
+    max-width: 500px;
+    margin: auto;
+    font-size: 40px;
+    padding:  10px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+/* ......about-section......... */
+.about h2{
+    font-size: 38px;
+    margin-bottom: 16px;
+}
+.about p{
+    margin: 0 100px;
+}
+/* ...........list-item.......  */
+.card span{
+    display: block;
+    height: 60px;
+    width: 60px;
+    background-color: #2980b9;
+    color: #fff;
+    font-size: 35px;
+    line-height: 60px;
+    margin: auto;
+    border-radius: 20px 0;
+    margin-bottom: 10px;
+}
+.card{
+    background: rgba(221, 221, 221, 0.288);
+}
+/* ................................... */
+.fotter img{
+    width: 160px;
+    height: auto;
+}
+.blog-right h2{
+    font-size: 32px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding-bottom: 6px;
+}
+.blog-right ul{
+    list-style: none;
+}
+.blog-right ul li{
+    border: 1px solid #ddd;
+    background: #fafafa;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 9px;
+    border-radius: 5px;
+}.blog-right h2{
+    font-size: 32px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding-bottom: 6px;
+}
+.blog-right ul{
+    list-style: none;
+}
+.blog-right ul li{
+    border: 1px solid #ddd;
+    background: #fafafa;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 9px;
+    border-radius: 5px;
+}
+/* ...........bottom............ */
+.bottom{
+    background: #2c3e50;
+    color: #fff;
+}
+.social-menu li{
+    display: inline-block;
+}
+.social-menu li a {
+    color: #fff;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.social-menu li a:hover{
+    color: red;
+}
